@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.student-holder {
+  position: relative;
+  margin-bottom: 60px;
+}
+
+.wrapper {
+  max-width: 1070px;
+  margin: 0 auto;
+}
+
+.graduate-panel {
+  min-height: 314px;
+  width: 57.4%;
+  padding: 37px 46px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 2.424px 4.373px 17px 0 rgba(0, 0, 0, 0.14);
+  position: static;
+}
+.graduate-list{
+    width: 1300px;
+    left: -175px;
+  height: 300px;
+  position: relative;
+
+
+}
+.slick-list{
+      width: 400px;
+      height: 300px;
+      margin-right: 5px;
+      background: silver;
+      float: left;
+      position: relative;
+}
+.icon-hold {
+  position: absolute;
+  right: 0;
+  top: 40px;
+}
+
+.icon-panel {
+  left: 0;
+  right: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
